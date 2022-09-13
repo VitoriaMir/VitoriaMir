@@ -17,7 +17,8 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMir&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMir&layout=compact&langs_count=7&theme=prussian"/>
 </div><br>
-
+<hr>
+<h3> 💻💜  Linguagens: </h3>
 <div>
 	<img align="center" alt="javascript" height ="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 	<img align="center" alt="flask" height ="30" width="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"> 
@@ -28,7 +29,8 @@
 	<img align="center" alt="postgresql" height="30" width="40" src="https://www.postgresql.org/media/img/about/press/elephant.png">
 	<img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
-
+<hr>
+<h3> 🔎📮 Conecte-se comigo: </h3>
 <div> 
  	<a href = "mailto:vitoriaalessandra390@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  	<a href="https://www.linkedin.com/in/vitoria-miranda-3a0388184"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
