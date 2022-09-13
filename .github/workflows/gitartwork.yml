@@ -2,7 +2,7 @@
  on: 
    push:
    schedule:
-     - cron: '* */24 * * *'
+     - cron: '* */12 * * *'
  jobs:
    build:
      name: Make gitartwork SVG
@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: jasineri
             # Text on contribution graph 
-            text: VITORIA
+            text: BEM VINDO
        - uses: jasineri/simple-push-action@v1
