@@ -20,8 +20,6 @@ Bem-vindo ao meu perfil! Sou Vitoria Miranda, uma entusiasta da programação e 
 - 💻💜 **Linguagens:** JavaScript, Flask, Git, CSS, HTML5, MSSQL, PostgreSQL, Python.
 
 ## Conecte-se comigo
-- 🔎📮 **E-mail:** [viihctorypami@gmail.com](mailto:viihctorypami@gmail.com)
-- 🔗 **LinkedIn:** [Vitoria Miranda](https://www.linkedin.com/in/vitoria-miranda-3a0388184)
 - 💬 **Discord:** Viisck#9575
 - 👾 **LeetCode:** [vitoriamir](https://www.leetcode.com/vitoriamir)
 - 🏆 **HackerRank:** [viihctorypami](https://www.hackerrank.com/viihctorypami)
