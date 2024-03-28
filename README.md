@@ -1,28 +1,28 @@
-# Olá! 👋
+# Hello Guys! 👋
 
-Bem-vindo ao meu perfil! Sou Vitoria Miranda, uma entusiasta da programação e uma futura cientista de dados em busca de conhecimento e desafios empolgantes. Aqui está um pouco sobre mim:
+Welcome to my profile! I'm Vitoria Miranda, a programming enthusiast and a future data scientist looking for knowledge and exciting challenges.
 
 <div align="center">
-	<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+	<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%"/>
 </div>  
 
-## Sobre mim
-- 👩‍💻 Atualmente estudando para me tornar uma cientista de dados.
-- 🌱 Apaixonada por resolver problemas e aprender novas tecnologias.
-- 🎓 Graduanda em Sistemas de Informação.
+## About me:
+- 📚 Addicted to reading.
+- 🎓 Graduated in Information Systems.
+<br>
 
-## Estatísticas
+## GitHub Stats
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMir&layout=compact&langs_count=7&theme=prussian"/>
 </div><br>
 
-## Linguagens e Ferramentas
-- 💻💜 **Linguagens:** JavaScript, Flask, Git, CSS, HTML5, MSSQL, PostgreSQL, Python.
+## Connect with me:
+<ul>
+	<li>💬 Discord: Viisck#9575</li>
+        <li>👾 LeetCode: <a href="https://www.leetcode.com/vitoriamir">vitoriamir</a></li>
+        <li>🏆 HackerRank: <a href="https://www.hackerrank.com/viihctorypami">viihctorypami</a></li>
+        <li>✒️ CodePen: <a href="https://codepen.io/vitoriamir">vitoriamir</a></li>
+</ul>
+<br>
 
-## Conecte-se comigo
-- 💬 **Discord:** Viisck#9575
-- 👾 **LeetCode:** [vitoriamir](https://www.leetcode.com/vitoriamir)
-- 🏆 **HackerRank:** [viihctorypami](https://www.hackerrank.com/viihctorypami)
-- ✒️ **CodePen:** [vitoriamir](https://codepen.io/vitoriamir)
-
-Fique à vontade para explorar meus projetos e entrar em contato para colaborações ou apenas para bater um papo! 😊
+Feel free to explore my projects and get in touch for collaborations or just to chat! 😊
